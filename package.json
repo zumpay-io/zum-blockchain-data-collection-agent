@@ -1,0 +1,30 @@
+{
+  "name": "zumpay-zbdca",
+  "version": "0.1.3",
+  "description": "ZumPay: Blockchain Data Collection Agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumpay-io/zum-blockchain-data-collection-agent.git"
+  },
+  "keywords": [
+    "ZumPay"
+  ],
+  "author": "ZumPay Development Team",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zumpay-io/zum-blockchain-data-collection-agent/issues"
+  },
+  "homepage": "https://github.com/zumpay-io/zum-blockchain-data-collection-agent#readme",
+  "dependencies": {
+    "big-integer": "^1.6.36",
+    "mysql": "^2.16.0",
+    "zumcoin-rpc": "^0.8.7"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
