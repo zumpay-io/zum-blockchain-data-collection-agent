@@ -11,7 +11,7 @@ const util = require('util')
 
 /* Load in our environment variables */
 const env = {
-  enableDebugging: !!((typeof process.env.TURTLEPAY_DEBUG !== 'undefined' && (process.env.TURTLEPAY_DEBUG.toUpperCase() === 'ON' || parseInt(process.env.TURTLEPAY_DEBUG) === 1))),
+  enableDebugging: !!((typeof process.env.ZUMPAY_DEBUG !== 'undefined' && (process.env.ZUMPAY_DEBUG.toUpperCase() === 'ON' || parseInt(process.env.ZUMPAY_DEBUG) === 1))),
   mysql: {
     host: process.env.MYSQL_HOST || 'localhost',
     port: process.env.MYSQL_PORT || 3306,
