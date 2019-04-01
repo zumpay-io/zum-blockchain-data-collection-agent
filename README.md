@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-* [ZumCoin](https://github.com/zumcoin-org/zumcoin)
+* [ZumCoin](https://github.com/zumcoin/zumcoin)
 * MariaDB/MySQL with InnoDB support
 * [Node.js](https://nodejs.org/) LTS
 
