@@ -49,4 +49,5 @@ pm2 save
 
 6) Wait to build your database cache (this is likely to take a while depending on the size of the chain)
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
